@@ -1,0 +1,14 @@
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.AssemblyInfoInputs.cache
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.AssemblyInfo.cs
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.csproj.CoreCompileInputs.cache
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\bin\Debug\net8.0\Iteration Statements & Loops Exercise.exe
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\bin\Debug\net8.0\Iteration Statements & Loops Exercise.deps.json
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\bin\Debug\net8.0\Iteration Statements & Loops Exercise.runtimeconfig.json
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\bin\Debug\net8.0\Iteration Statements & Loops Exercise.dll
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\bin\Debug\net8.0\Iteration Statements & Loops Exercise.pdb
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.dll
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\refint\Iteration Statements & Loops Exercise.dll
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.pdb
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\Iteration Statements & Loops Exercise.genruntimeconfig.cache
+C:\Users\turne\repos\Iteration Statements & Loops Exercise\Iteration Statements & Loops Exercise\obj\Debug\net8.0\ref\Iteration Statements & Loops Exercise.dll
